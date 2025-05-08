@@ -35,7 +35,7 @@ For a full analysis, methodology details, experimental results, and per-model ob
 
 [Entropy MicroDemo - Detailed Analysis (Google Doc)](https://docs.google.com/document/d/e/2PACX-1vSpqNhn3tLQUsphCYYixYbFkQUqTThHUdHyS2n2_-32vNEy4QM2CwanaOpOiGVRFMX2gIH9dflMHJ4O/pub)
 
-[Entropy MicroDEmo - Outputs] (https://docs.google.com/document/d/e/2PACX-1vTDcr7orBOvQWGkYj6y6RN4KeMOssen5hGH4IcJfsDBJktbEgQ8vRVB5dDDDSSotUaQTd59ZYi_Wvwd/pub)
+[Entropy MicroDemo - Outputs](https://docs.google.com/document/d/e/2PACX-1vTDcr7orBOvQWGkYj6y6RN4KeMOssen5hGH4IcJfsDBJktbEgQ8vRVB5dDDDSSotUaQTd59ZYi_Wvwd/pub)
 
 ## Supporting Resources & Related Concepts
 
