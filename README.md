@@ -35,6 +35,8 @@ For a full analysis, methodology details, experimental results, and per-model ob
 
 [Entropy MicroDemo - Detailed Analysis (Google Doc)](https://docs.google.com/document/d/e/2PACX-1vSpqNhn3tLQUsphCYYixYbFkQUqTThHUdHyS2n2_-32vNEy4QM2CwanaOpOiGVRFMX2gIH9dflMHJ4O/pub)
 
+[Entropy MicroDEmo - Outputs] (https://docs.google.com/document/d/e/2PACX-1vTDcr7orBOvQWGkYj6y6RN4KeMOssen5hGH4IcJfsDBJktbEgQ8vRVB5dDDDSSotUaQTd59ZYi_Wvwd/pub)
+
 ## Supporting Resources & Related Concepts
 
 The concept of entropy, particularly **Shannon entropy**, is fundamental in machine learning for quantifying uncertainty and information content within data distributions ([Medium Article](https://medium.com/swlh/shannon-entropy-in-the-context-of-machine-learning-and-ai-24aee2709e32), [AppliedAICourse Blog](https://www.appliedaicourse.com/blog/entropy-in-machine-learning/)). While this project focuses on the quality of *input randomness* (algorithmic/cryptographic entropy) rather than *information entropy* of activations, the underlying principle of entropy's importance resonates with related research.
