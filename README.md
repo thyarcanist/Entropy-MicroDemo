@@ -38,6 +38,7 @@ For a full analysis, methodology details, experimental results, and per-model ob
 ## Setup & Usage
 
 The experiments are designed to be run in a Python environment, typically within a Jupyter Notebook or Google Colab.
+[ERNG (Quantum-Native Entropy Engine)](https://entropy.occybyte.com/))
 
 **Dependencies:**
 Ensure the following Python libraries are installed:
