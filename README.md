@@ -66,3 +66,6 @@ The associated Jupyter Notebook requires the following environment variables or 
 
 **Running the Experiment:**
 Configure the `MODEL_NAME`, `PROMPTS`, and generation parameters within the script/notebook and execute the Python code. Ensure you have selected a GPU runtime in your environment if using quantization (`load_in_8bit=True` or `BitsAndBytesConfig`).
+
+Experiment by: Datorien L. Anderson
+Occybyte
